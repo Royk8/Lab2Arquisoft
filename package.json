@@ -1,0 +1,28 @@
+{
+  "name": "lab2arquisoft",
+  "version": "1.0.0",
+  "description": "Second Laboratory of Software Architecture Signature in Systems Engineering. UdeA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royk8/Lab2Arquisoft.git"
+  },
+  "keywords": [
+    "Suma",
+    "Resta",
+    "Multiplicacion",
+    "Division"
+  ],
+  "author": "Roy K. Maestre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Royk8/Lab2Arquisoft/issues"
+  },
+  "homepage": "https://github.com/Royk8/Lab2Arquisoft#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
