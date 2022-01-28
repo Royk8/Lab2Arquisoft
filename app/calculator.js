@@ -18,7 +18,7 @@ function multiply(a,b){
 
 function divide(a,b){
     if (b === 0){
-        return Error("No se puede dividir por cero");
+        return Error("Can't divide by zero");
     }
     return a/b;
 }
